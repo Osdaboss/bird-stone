@@ -1,0 +1,8 @@
+h1 {
+    font-size: 500%;
+    /* animation-name: colour; */
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    font-weight: bold;
+    background-color:  #eb2c2c;
+}
